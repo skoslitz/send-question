@@ -4,7 +4,7 @@ Prototype to send queries to elasticsearch (es)
 ## Config
 
 Go and get elasticsearch.
-Edit your `elasticsearch.yml` like below and run `bin/elasticsearch`:
+Edit your `elasticsearch.yml` like below and run `bin/elasticsearch`: <br>
 `http.cors.enabled: true` <br>
 `http.cors.allow-credentials: true` <br>
 `http.cors.allow-origin: "*"` <br>
