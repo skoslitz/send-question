@@ -17,7 +17,7 @@
 	        
 	    $.ajax({
 		  method: "PUT",
-		  url: "http://127.0.0.1:9200/questions/question/test",
+		  url: "https://frag.nimirum.de/es/questions/question/remote-test",
 		  contentType: "application/json",
 		  data: JSON.stringify({ 
 		  	"query-string": queryString,
