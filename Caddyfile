@@ -1,7 +1,0 @@
-# 207.154.208.108:80
-frag.nimirum.de {
-  tls sk@nimirum.info,
-  proxy /es 127.0.0.1:9205 {
-      without /es
-  }
-}
